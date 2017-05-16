@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+}
+.tituloNav{
+  color: #fff;
+  text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+}
+.navContenido{
+  padding: 3%;
+  background-image: url(https://image.freepik.com/vector-gratis/fondo-con-mandalas_1159-834.jpg);
+}
+img{
+  width: 20%;
+  margin-left: 1%;
+  margin-right: 1%;
+  height: auto;
+}
+#fotos{
+  margin-top: 5%;
+}
+#botonesTexto{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.cerrar{
+  /*margin-left: -30px;*/
+  color: #000;
+  font-weight: bold;
+  transition: 0.3s;
+}
+#parrafo{
+  padding-left: 2%;
+  padding-right: 2%;
+  text-align: justify;
+}
