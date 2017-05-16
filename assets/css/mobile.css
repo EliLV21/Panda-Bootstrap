@@ -1,0 +1,16 @@
+@media screen and (min-width: 20px) and (max-width: 480px) {
+  .nav-tabs{
+    display: none;
+  }
+  h1{
+    font-size: 1.8em;
+  }
+  .hamburguesaMovil{
+    display: flex;
+    font-size: 1.8em;
+    padding-top: 3%;
+    padding-left: 40%;
+    text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+  }
+
+}
